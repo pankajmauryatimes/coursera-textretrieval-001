@@ -78,6 +78,6 @@ make
 
 ### Vagrant Commands
 
-`vagrant up` - Start the VM
-`vagrant destroy` - Destroy and deallocate the VM
-`vagrant ssh` - SSH into your running VM
+- `vagrant up` - Start the VM
+- `vagrant destroy` - Destroy and deallocate the VM
+- `vagrant ssh` - SSH into your running VM
